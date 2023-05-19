@@ -79,7 +79,7 @@ def test_translate_with_google():
 
 
 def test_translate_with_deepl():
-    assert translate._translate_with_deepl("Hello", "fi") == "Hei"
+    assert translate.translate_with_deepl("Hello", "fi", 4000) == "Hei"
 
 
 def test_split_content():
