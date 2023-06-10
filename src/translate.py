@@ -127,8 +127,8 @@ if __name__ == "__main__":
     # Run at 9th April -23
     # translate_file(first_part, 'FI', chars_per_chunk=4000)
 
-    # To be run at 9th May -23
-    translate_file(second_part, 'FI', chars_per_chunk=4000)
+    # Run at 9th May -23
+    # translate_file(second_part, 'FI', chars_per_chunk=4000)
 
-    # To be run at 9th June -23
-    # translate_file(third_part, 'FI', chars_per_chunk=4000)
+    # Run at 9th June -23
+    # translate_file(third_part, "FI", chars_per_chunk=4000)
